@@ -30,6 +30,5 @@
   <a href = "mailto:johnnydeboas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-lucas-johnnydeboas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+   ![Snake animation](https://github.com/JohnnyDeBoas/JohnnyDeBoas/blob/main/.github/workflows/snake.svg)
 </div>
-
-![Snake animation](https://github.com/JohnnyDeBoas/JohnnyDeBoas/blob/main/.github/workflows/snake.yml)
