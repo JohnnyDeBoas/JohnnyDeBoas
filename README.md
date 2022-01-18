@@ -32,4 +32,4 @@
  
 </div>
 
-![Snake animation](https://github.com/JohnnyDeBoas)
+![Snake animation](https://github.com/JohnnyDeBoas/JohnnyDeBoas/blob/main/.github/workflows/snake.yml)
