@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Lucas ou JohnnyDeBoas
 
-- 💼 Atualmente trabalho com front-end
-- 📚 Vuejs e Ruby and rails
+- 💼 Atualmente trabalho como back-end development
+- 📚 Electron
 - 😄 Pronomes: ele/dele
 
 <div align="center">
