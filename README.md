@@ -1,7 +1,7 @@
-## Olá, eu sou o João Lucas ou JohnnyDeBoas
+## Hi, I'm JohnnyDeBoas, welcome to my GitHub!
 
-- 💼 Atualmente trabalho como back-end development
-- 📚 Electron
+- 💼 Full-stack developer
+- 📚 React, typescript and AWS services
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -28,7 +28,7 @@
   ##
  
 <div> 
-  <a href="https://api.whatsapp.com/send?phone=5512997957774" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5512992215603" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/johnnydeboas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:johnnydeboas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-lucas-johnnydeboas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
