@@ -18,7 +18,7 @@
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="johnny-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="johnny-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg">
-  <img align="right" alt="johnny-pic" height="150" src="https://media.discordapp.net/attachments/943609015655600158/944285354280771614/facebook_1645205551996_6900492227566463567.jpg?width=458&height=458">
+
 </div>
 </div>
   
