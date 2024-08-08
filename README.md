@@ -1,7 +1,6 @@
 ## Hi, I'm JohnnyDeBoas, welcome to my GitHub!
 
 - 💼 Full-stack developer
-- 📚 React, typescript and AWS services
 - 😄 Pronomes: ele/dele
 
 <div align="center">
